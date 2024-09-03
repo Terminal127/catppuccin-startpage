@@ -15,7 +15,7 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "myself",
+      name: "Anubhav",
       background_url: "src/img/banners/cbg-9.gif",
       categories: [
         {
@@ -115,15 +115,15 @@ const default_config = {
               icon_color: "#a6e3a1",
             },
             {
-              name: "neptune",
-              url: "https://ui.neptune.ai",
-              icon: "circle-triangle",
+              name: "huggingface",
+              url: "https://huggingface.co",
+              icon: "robot",
               icon_color: "#fab387",
             },
             {
-              name: "wakatime",
-              url: "https://wakatime.com/dashboard",
-              icon: "24-hours",
+              name: "flow",
+              url: "https://universe.roboflow.com",
+              icon: "hierarchy-3",
               icon_color: "#f38ba8",
             },
           ],

@@ -210,7 +210,7 @@ class Tabs extends Component {
           text-transform: uppercase;
           overflow-wrap: break-word;
           width: 25px;
-          height: 250px;
+          height: 300px;
           padding: 1em;
           margin: auto;
           border-radius: 5px;
