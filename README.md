@@ -51,11 +51,6 @@ I've tweaked the page's style to match [Catppuccin](https://github.com/catppucci
 >
 > If you want to reduce the loading time of the icons, you could install the icon [font](src/fonts) locally and activate the option `"localIcons": true` in the config to disable the remote styles
 
-#### As Homepage
-
-- Click the menu button and select `Options/Preferences`
-- Click the home panel
-- Click the menu next to the homepage and new windows and choose to show custom URLs and add your GitHub Pages link
 
 #### As New Tab
 
