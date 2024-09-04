@@ -22,14 +22,14 @@ const default_config = {
           name: "bookmarks",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
+              name: "chatgpt",
+              url: "https://chatgpt.com",
               icon: "droplet-bolt",
               icon_color: "#a6e3a1",
             },
             {
-              name: "musicForProgramming();",
-              url: "https://musicforprogramming.net/sixty",
+              name: "claude",
+              url: "https://claude.ai/new",
               icon: "binary-tree",
               icon_color: "#fab387",
             },
@@ -68,8 +68,8 @@ const default_config = {
           name: "media",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
+              name: "ArchWiki",
+              url: "https://wiki.archlinux.org",
               icon: "news",
               icon_color: "#a6e3a1",
             },
@@ -80,21 +80,9 @@ const default_config = {
               icon_color: "#fab387",
             },
             {
-              name: "куток",
-              url: "https://kutok.io",
-              icon: "border-radius",
-              icon_color: "#f38ba8",
-            },
-            {
-              name: "ґрунт",
-              url: "https://grnt.media",
-              icon: "eye-bolt",
-              icon_color: "#89b4fa",
-            },
-            {
-              name: "village",
-              url: "https://www.village.com.ua",
-              icon: "home-2",
+              name: "monkeytype",
+              url: "https://monkeytype.com",
+              icon: "keyboard",
               icon_color: "#cba6f7",
             },
           ],
@@ -242,8 +230,8 @@ const default_config = {
           name: "video",
           links: [
             {
-              name: "anilist",
-              url: "https://anilist.co/home",
+              name: "anime",
+              url: "https://hianime.to/home",
               icon: "brand-funimation",
               icon_color: "#a6e3a1",
             },
